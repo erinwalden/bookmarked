@@ -20,9 +20,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Bookmarked!
+title: Bookmarked
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A collection of bookmarks from independent bookstore around the world.
+tagline: A collection of bookmarks from independent bookstores around the world.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: A digital collection of 32 bookmarks from independent bookstores in the United States and around the world.
