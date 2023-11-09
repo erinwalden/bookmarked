@@ -95,7 +95,7 @@ bootswatch: simplex # leave blank or comment out for plain bootstrap
 # THEME FONTS
 base-font-size: 1.2em
 text-color: "#191919"
-link-color: "#335935"
+link-color: "#77bd7b"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
@@ -105,16 +105,16 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the default keys are icon-image, icon-audio, icon-video, icon-pdf, and icon-default
 # the values must match an icon svg name in "assets/lib/icons/"
 #
-# icons: 
-#   icon-image: image
-#   icon-audio: soundwave
-#   icon-video: film
-#   icon-pdf: file-pdf
-#   icon-record: file-text
-#   icon-compound-object: collection
-#   icon-multiple: postcard
-#   icon-default: file-earmark # fall back icon
-#   icon-back-to-top: arrow-up-square # scroll to top icon
-#   arrow-left: arrow-left
-#   arrow-right: arrow-right
-#   arrow-down: arrow-down
+ icons: 
+   icon-image: bookmark-star
+   icon-audio: soundwave
+   icon-video: film
+   icon-pdf: file-pdf
+   icon-record: file-text
+   icon-compound-object: collection
+   icon-multiple: postcard
+   icon-default: book # fall back icon
+   icon-back-to-top: arrow-up-square-fill # scroll to top icon
+   arrow-left: arrow-bar-left
+   arrow-right: arrow-bar-right
+   arrow-down: arrow-bar-down
