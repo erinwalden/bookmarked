@@ -1,20 +1,19 @@
-field,display_name,browse_link,external_link
-title,Title,
-tagline,Bookstore Tagline,
-subject,Bookstore Specializations,true
-bookstorestatus,Bookstore Status,
-designer,Designer,
-color,Color,
-material,Material,
-size,Size,
-damage,Damage,
-source, Original Bookmark Recipient,
-date,Date Received,
-location,Location
-latitude,Latitude
-longitude,Longitude
-note,Personal note,
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-website,Bookstore Website,,true
+field,display_name,browse_link,external_link,dc_map
+title,Title,,,DCTERMS.title
+tagline,Bookstore Tagline,,,DCTERMS.description
+website,Bookstore Website,,true,DCTERMS.description
+subject,Bookstore Specializations,true,,DCTERMS.subject
+bookstorestatus,Bookstore Status,true,,DCTERMS.description
+designer,Designer,,,DCTERMS.contributor
+color,Color,true,,DCTERMS.format
+material,Material,true,,DCTERMS.format
+size,Size,,,DCTERMS.format
+damage,Damage,true,,DCTERMS.format
+source,Original Bookmark Recipient,true,,DCTERMS.source
+date,Date Received,,,DCTERMS.date
+location,Location,true,,DCTERMS.coverage
+latitude,Latitude,,,DCTERMS.coverage
+longitude,Longitude,,,DCTERMS.coverage
+note,Personal note,,,DCTERMS.description
+type,Type,,,DCTERMS.type
+format,Format,,,DCTERMS.format
