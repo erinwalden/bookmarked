@@ -23,7 +23,7 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: subject;creator # set the field to be featured in the cloud (if left blank, none will be generated)
+subjects-fields: subject # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
@@ -40,12 +40,12 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 # see _data/map-config.csv for field display options
 latitude: 38.514529030102516 #to determine center of map
 longitude: -98.40720824096523 #to determine center of map
-zoom-level: 4 # zoom level for map 
-map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery, OpenStreetMap_Mapnik
+zoom-level: 6 # zoom level for map 
+map-base: OpenStreetMap_Mapnik # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery, OpenStreetMap_Mapnik
 map-search: true # true/false, not suggested with large collections
 map-search-fuzziness: 0.35 # fuzzy search range from 1 = anything to 0 = exact match only
 map-cluster: true # true/false, suggested for large collection or with many items in same location
-map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
+map-cluster-radius: 15 # size of clusters, from ~ 10 to 80
 
 ##########
 # TIMELINE PAGE
@@ -60,7 +60,7 @@ year-nav-increment: 1 # set increments when auto gen nav years
 # comma delimited list, reference url is automatic
 metadata-export-fields: "objectid,parentid,filename,format,title,tagline,subject,website,bookstorestatus,latitude,longitude,location,date,designer,source,color,material,size,damage,note"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,creator,format"
+metadata-facets-fields: "subject,title,format"
 
 ##########
 # COMPOUND OBJECTS
@@ -90,12 +90,12 @@ navbar-background: bg-dark
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: # leave blank or comment out for plain bootstrap
+bootswatch: litera # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
 text-color: "#191919"
-link-color: "#0d6efd"
+link-color: "#335935"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
