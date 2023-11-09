@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 subject,Bookstore Specialization,true,,,
-location,Location,true,,,
+location,Location,true,,true
 bookstorestatus,Bookstore Status,,true,,
 color,Color,true,,,
 material,Material,,true,,
