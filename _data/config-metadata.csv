@@ -1,15 +1,20 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
+tagline,Bookstore Tagline,
+subject,Bookstore Specializations,true
+bookstorestatus,Bookstore Status,
+designer,Designer,
+color,Color,
+material,Material,
+size,Size,
+damage,Damage,
+source, Original Bookmark Recipient,
+date,Date Received,
 location,Location
 latitude,Latitude
 longitude,Longitude
-source,Source
+note,Personal note,
 identifier,Source Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+website,Bookstore Website,,true
