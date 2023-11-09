@@ -104,13 +104,12 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the "icons" object below can override the default icons and add new icons
 # the default keys are icon-image, icon-audio, icon-video, icon-pdf, and icon-default
 # the values must match an icon svg name in "assets/lib/icons/"
-#
  icons: 
    icon-image: bookmark-star
    icon-audio: soundwave
    icon-video: film
    icon-pdf: file-pdf
-   icon-record: file-text
+   icon-record: book
    icon-compound-object: collection
    icon-multiple: postcard
    icon-default: book # fall back icon
