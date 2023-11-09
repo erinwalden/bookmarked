@@ -108,7 +108,7 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
    icon-image: bookmark-star
    icon-audio: soundwave
    icon-video: film
-   icon-pdf: file-pdf
+   icon-pdf: file-pdf-fill
    icon-record: book
    icon-compound-object: collection
    icon-multiple: postcard
