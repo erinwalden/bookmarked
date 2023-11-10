@@ -1,11 +1,11 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse All,/browse.html
-Browse by Bookstore Information,,
-Bookstore Specialization,/specialization.html,Browse by Bookstore Information
-Bookstore Location,/location.html,Browse by Bookstore Information
+Browse by Bookstore,,
+Subjects,/subjects.html,Browse by Bookstore Information
+Location,/location.html,Browse by Bookstore Information
 Map,/map.html,Browse by Bookstore Information
-Browse by Bookmark Attribute,,
+Browse by Bookmark,,
 Acquisition Date,/timeline.html,Browse by Bookmark Attribute
 Color,/color.html,Browse by Bookmark Attribute
 Material,/material.html,Browse by Bookmark Attribute
