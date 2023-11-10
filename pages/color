@@ -1,0 +1,6 @@
+---
+title: Bookmark Color
+layout: about
+permalink: /color.html
+---
+{% include feature/cloud.html fields="color" min="1" background="light" button="outline-warning" %}
