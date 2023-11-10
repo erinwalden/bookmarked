@@ -1,9 +1,9 @@
 color_class,color
-primary,606C38
-secondary,283618
-success,DDA15E
-info,BC6C25
-warning,525174
-danger,ecf39e
-light,FEFAE0
-dark,513b56
+primary,#606c38
+secondary,#283618
+success,#dda15e
+info,#bc6c25
+warning,#525174
+danger,#ecf39e
+light,#fefae0
+dark,#513b56
