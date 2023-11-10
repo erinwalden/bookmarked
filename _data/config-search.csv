@@ -1,11 +1,11 @@
 field,index,display
 title,true,true
 tagline,true,true
-date,true,true
+date,true,false
 source,true,false
-description,true,true
+description,true,false
 subject,true,true
-location,true,false
+location,true,true
 color,true,false
 material,true,false
 damage,true,false
