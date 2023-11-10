@@ -2,13 +2,13 @@ display_name,stub,dropdown_parent
 Home,/
 Browse All,/browse.html
 Browse by Bookstore,,
-Subjects,/subjects.html,Browse by Bookstore Information
-Location,/location.html,Browse by Bookstore Information
-Map,/map.html,Browse by Bookstore Information
+Subjects,/subjects.html,Browse by Bookstore
+Location,/location.html,Browse by Bookstore
+Map,/map.html,Browse by Bookstore
 Browse by Bookmark,,
-Acquisition Date,/timeline.html,Browse by Bookmark Attribute
-Color,/color.html,Browse by Bookmark Attribute
-Material,/material.html,Browse by Bookmark Attribute
+Acquisition Date,/timeline.html,Browse by Bookmark
+Color,/color.html,Browse by Bookmark
+Material,/material.html,Browse by Bookmark
 About,,
 About the Collection,/about.html,About
 Contributors,/contributors.html,About
