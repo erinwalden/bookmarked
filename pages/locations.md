@@ -6,8 +6,6 @@ permalink: /location.html
 # leave cloud-fields as "site.data.theme.locations-fields"
 # a cloud visualization will be added below the content in this file
 cloud-fields: site.data.theme.locations-fields
-background:danger
-button:warning
 ---
 
 ## Browse Locations
