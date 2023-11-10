@@ -5,10 +5,10 @@ permalink: /color.html
 cloud-fields: color
 cloud-min: 1
 cloud-stopwords:
-background: secondary
-button: outline-primary
+background: primary
+button: outline-secondary
 
 ---
 
 ## Browse by Color
-Colors were assigned based on the [12 basic colors](https://www.usability.gov/how-to-and-tools/methods/color-basics.html#:~:text=Three%20Primary%20Colors%20(Ps)%3A,a%20primary%20with%20a%20secondary), white, black, and multi-color.
+Colors were assigned based on the [12 basic colors](https://www.usability.gov/how-to-and-tools/methods/color-basics.html#:~:text=Three%20Primary%20Colors%20(Ps)%3A,a%20primary%20with%20a%20secondary), white, black, tan and multi-color.
