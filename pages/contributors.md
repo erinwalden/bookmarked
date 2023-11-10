@@ -25,4 +25,4 @@ Kathryn is a real estate agent and photographer. She hosts great parties.
 [Greta](https://gskagerlind.com/) is a graphic designer in NY. He is also the proud long-distance father of Chester, the best cat.
 
 ### Celia Walden (she/her)
-[Celia](https://cals.cornell.edu/news/2022/05/digital-agriculture-internships-spark-interdisciplinary-insights) is a statistician and rock climber based in Boulder, Colorado. She knows everything abotu organic pesticides and pusheen.
+[Celia](https://cals.cornell.edu/news/2022/05/digital-agriculture-internships-spark-interdisciplinary-insights) is a statistician and rock climber based in Boulder, Colorado. She knows everything about organic pesticides and [Pusheen](https://pusheen.com/).
