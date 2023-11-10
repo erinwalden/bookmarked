@@ -14,14 +14,21 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site hosts a digitized collection of independent bookstore bookmarks sourced from my personal collection. The bookstores represented here are primarily located in the United States, though bookmarks have been sourced from around the world with the help of my friends and family. This project follows the [Library of Congress Technical Standards for Digital Conversion of Text and Graphic Materials](https://memory.loc.gov/ammem/about/techStandards.pdf) and implements rich metadata to create a functional and user-friendly browsing experience.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Since 2016, the year that I started my undergraduate education, I have been collecting bookmarks. The bookstores represented here follow the trajectory of my life, with the earliest acquisitions being from Providence, RI, moving occasionally through New York City, Long Island, and Massachusetts, and slowly creeping toward the midwest through Philadelphia and Ohio. My personal collection also includes bookmarks from various cultural institutions and small presses but for the purpose of this project, I have decided to include only bookmarks from independent bookstores.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+I am extremely grateful to friends and family who have gifted bookmarks to me throughout the years. You can learn more about these contributors on the Contributor page.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+## Bookmark Collecting
+
+There is a rich community of [bookmark collectors](https://www.biblio.com/book-collecting/what-to-collect/ephemera/bookmarks/). Bookmarks can offer an accessible entry into collecting as they are often complementary and require little space to store. I hope that this resource can be viewed alongside resources such as the Instagram account [@bookstoremark](https://www.instagram.com/bookstoremark/) and numerous blogs, some of which discuss [vintage](https://adirondackgirlatheart.com/bookmark-collecting-guide/), [travel](https://danisbookshelf.com/2018/04/14/my-travel-bookmark-collection/), and [Halloween](https://www.ifobookmarks.org/blog/category/collecting-bookmarks) bookmarks (among other topics). Those interested in more information about bookmark collecting can look to [The International Friends of Bookmarks](https://www.ifobookmarks.org/bookmark-swap.html) website. Ultimately, this project is intended for everyone including book lovers, booksellers, designers, and those interested in paper and material culture. 
+
+## Rights Statement
+
+My understanding is that Fair Use Permission applies to these bookmarks. When known, I have credited artists/designers. Please reach out to erwalden@iu.edu with questions or concerns.
+
+
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
