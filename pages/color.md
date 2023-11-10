@@ -6,7 +6,7 @@ cloud-fields: color
 cloud-min: 1
 cloud-stopwords:
 background: primary
-button: outline-secondary
+button: outline-dark
 
 ---
 
