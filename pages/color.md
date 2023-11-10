@@ -5,6 +5,9 @@ permalink: /color.html
 cloud-fields: color
 cloud-min: 1
 cloud-stopwords:
+background: secondary
+button: outline-primary
+
 ---
 
 ## Browse by Color
