@@ -17,7 +17,7 @@ This site hosts a digitized collection of independent bookstore bookmarks source
 
 Since 2016, the year that I started my undergraduate education, I have been collecting bookmarks. The bookstores represented here follow the trajectory of my life, with the earliest acquisitions being from Providence, RI, moving occasionally through New York City, Long Island, and Massachusetts, and slowly creeping toward the midwest through Philadelphia and Ohio. My personal collection also includes bookmarks from various cultural institutions and small presses but for the purpose of this project, I have decided to include only bookmarks from independent bookstores.
 
-{% include feature/card.html header="Symposium Books" text="The first bookmark in this colleciton, acquired during the summer of 2018." objectid="bookmark002" width="25"% centered=true %}
+{% include feature/card.html header="Symposium Books" text="The first bookmark in this colleciton, acquired during the summer of 2018." objectid="bookmark002" width="10" centered=true %}
 
 I am extremely grateful to friends and family who have gifted bookmarks to me throughout the years. You can learn more about these contributors on the [Contributor](https://erinwalden.github.io/bookmarked/contributors.html) page.
 
