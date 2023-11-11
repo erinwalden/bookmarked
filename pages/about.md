@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24630421/original_6bdfbad7d4002c5e7f15f1abfda6558c.png?1699556791?bc=0" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Bookmark Collecting;Rights Statement;Timeline" %}
+{% include feature/nav-menu.html sections="About the Collection;Bookmark Collecting;Rights Statement" %}
 ## About the Collection
 
 This site hosts a digitized collection of independent bookstore bookmarks sourced from my personal collection. The bookstores represented here are primarily located in the United States, though bookmarks have been sourced from around the world with the help of my friends and family. This project follows the [Library of Congress Technical Standards for Digital Conversion of Text and Graphic Materials](https://memory.loc.gov/ammem/about/techStandards.pdf) and implements rich metadata to create a functional and user-friendly browsing experience.
@@ -28,8 +28,3 @@ There is a rich community of [bookmark collectors](https://www.biblio.com/book-c
 ## Rights Statement
 
 My understanding is that Fair Use Permission applies to these bookmarks. When known, I have credited artists/designers. Please reach out to erwalden@iu.edu with questions or concerns.
-
-## Timeline
-
-See below for an interactive timeline of the 32 objects held in this collection.
-{% include feature/timelinejs.html %}
