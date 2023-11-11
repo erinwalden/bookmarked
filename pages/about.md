@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24630421/original_6bdfbad7d4002c5e7f15f1abfda6558c.png?1699556791?bc=0" %}
+{% include feature/jumbotron.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24663372/original_3edae9f7483690646127e9059d002392.png?1699744554?bc=0" %}
 
 {% include feature/nav-menu.html sections="About the Collection;Bookmark Collecting;Rights Statement" %}
 ## About the Collection
@@ -17,7 +17,7 @@ This site hosts a digitized collection of independent bookstore bookmarks source
 
 Since 2016, the year that I started my undergraduate education, I have been collecting bookmarks. The bookstores represented here follow the trajectory of my life, with the earliest acquisitions being from Providence, RI, moving occasionally through New York City, Long Island, and Massachusetts, and slowly creeping toward the midwest through Philadelphia and Ohio. My personal collection also includes bookmarks from various cultural institutions and small presses but for the purpose of this project, I have decided to include only bookmarks from independent bookstores.
 
-I am extremely grateful to friends and family who have gifted bookmarks to me throughout the years. You can learn more about these contributors on the [Contributor](https://erinwalden.github.io/bookmarked/contributors.html) page.
+I am extremely grateful to friends and family who have gifted bookmarks to me throughout the years. You can learn more about these contributors on the [**Contributor Page**](https://erinwalden.github.io/bookmarked/contributors.html).
 
 This project was created for [Z652: Digtial Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA23/) with Professor [John Walsh](https://homes.luddy.indiana.edu/jawalsh/) and [Alex Wingate](https://alexandraewingate.com/).
 
