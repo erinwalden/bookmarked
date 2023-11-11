@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://www.are.na/block/24663525" %}
+{% include feature/jumbotron.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24663525/original_eab874a0a96614b6bcf89d38218e2e18.png?1699745360?bc=0" %}
 
 {% include feature/nav-menu.html sections="About the Collection;Bookmark Collecting;Rights Statement" %}
 ## About the Collection
