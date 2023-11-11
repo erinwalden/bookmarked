@@ -5,8 +5,8 @@ permalink: /material.html
 cloud-fields: material
 cloud-min: 1
 cloud-stopwords:
-background:warning
-button:primary
+background: warning
+button: primary
 ---
 
 ## Browse by Material
