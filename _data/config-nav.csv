@@ -2,7 +2,8 @@ display_name,stub,dropdown_parent
 Home,/
 Browse All,/browse.html
 Browse by Bookstore,,
-Subjects,/subjects.html,Browse by Bookstore
+Specializations,/subjects.html,Browse by Bookstore
+Tagline,/tagline.html,Browse by Bookstore
 Location,/location.html,Browse by Bookstore
 Map,/map.html,Browse by Bookstore
 Browse by Bookmark,,
