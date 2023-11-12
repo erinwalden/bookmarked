@@ -5,7 +5,7 @@ permalink: /contributors.html
 ---
 {% include feature/nav-menu.html sections="Erin Walden;Kathryn Huang;Elisabeth Schifrin;Anita Sheih;Greta Skagerlind;Celia Walden" %}
 
-# Creator
+# **Creator**
 
 ### Erin Walden
 Erin (she/her) is a Master's student in the [English](https://english.indiana.edu/about/graduate-students/index.html) and Library Science departments at Indiana University. She loves collecting stickers, washi tape, zines, books, ephemera, and too many toys for her dear cat, Chester.
@@ -14,7 +14,7 @@ Erin (she/her) is a Master's student in the [English](https://english.indiana.ed
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Erin's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Erin%20Walden" color="secondary" %}</p>
 
-# Contributors
+# **Contributors**
 
 ### Kathryn Huang
 Kathryn (she/her) is a real estate agent and photographer. She hosts great parties.
