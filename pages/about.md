@@ -30,13 +30,12 @@ I am extremely grateful to friends and family who have gifted bookmarks to me th
 
 This project was created for [Z652: Digtial Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA23/) with Professor [John Walsh](https://homes.luddy.indiana.edu/jawalsh/) and [Alex Wingate](https://alexandraewingate.com/).
 
----
-# Bookmark Collecting
+### Bookmark Collecting
 
 There is a rich community of [bookmark collectors](https://www.biblio.com/book-collecting/what-to-collect/ephemera/bookmarks/). Bookmarks can offer an accessible entry into collecting as they are often complementary and require little space to store. I hope that this resource can be viewed alongside resources such as the Instagram account [@bookstoremark](https://www.instagram.com/bookstoremark/) and numerous blogs, some of which discuss [vintage](https://adirondackgirlatheart.com/bookmark-collecting-guide/), [travel](https://danisbookshelf.com/2018/04/14/my-travel-bookmark-collection/), and [Halloween](https://www.ifobookmarks.org/blog/category/collecting-bookmarks) bookmarks (among other topics). Those interested in more information about bookmark collecting can look to [The International Friends of Bookmarks](https://www.ifobookmarks.org/bookmark-swap.html) website. Ultimately, this project is intended for everyone including book lovers, booksellers, designers, and those interested in paper and material culture. 
 
 ---
-## Technical Details
+# Technical Details
 
 Bookmarks in the collection are contained in single image JPEG or PNG files. When a bookmark had two sides, I scanned each side separately and used InDesign to put them into one file. All photos *other than bookmarks* are hosted on my [personal Are.na account](https://www.are.na/erin-lee-walden/bookmarks-7hitlyaje5i). I hope that hosting the images on an additional platform can increase the exposure and reach of this site.
 
@@ -59,11 +58,12 @@ Metadata fields for this project are listed below. Those with links are searchab
 
 You can see the Metadata Application Profile [here](https://erinwalden.github.io/bookmarked/metadataprofile.html).
 
-# Rights Statement
+### Rights Statement
 
 My understanding is that Fair Use Permission applies to these bookmarks. When known, I have credited artists/designers. Please reach out to erwalden@iu.edu with questions or concerns.
 
-### Citations
+---
+# Citations
 
 This project uses [Athelas](https://fonts.adobe.com/fonts/athelas#fonts-section), designed by [José Scaglione](https://fonts.adobe.com/designers/jose-scaglione) and [Veronika Burian](https://fonts.adobe.com/designers/veronika-burian) from [TypeTogether](https://fonts.adobe.com/foundries/typetogether). The full Adobe Fonts library is cleared for both [personal and commercial use](https://fonts.adobe.com/fonts/athelas#licensing-section).
 
@@ -76,6 +76,6 @@ Controlled Vocabularies:
 - [Getty Art & Architecture Thesaurus](https://www.getty.edu/vow/AATHierarchy?find=paper&logic=AND&note=&page=1&subjectid=300014109)
 - [Smithsonian Museum Conservation Institute Sources of Deterioration and Damage to Paper Materials](https://mci.si.edu/sources-deterioration-and-damage-paper-materials)
 
-## Further Reading
+### Further Reading
 
 A list of some interesting articles that I came accross during this project:
