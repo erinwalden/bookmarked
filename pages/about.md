@@ -34,7 +34,7 @@ This project was created for [Z652: Digtial Libraries](https://jawalsh.github.io
 
 There is a rich histy of [bookmark collecting](https://www.biblio.com/book-collecting/what-to-collect/ephemera/bookmarks/), especially in the book collecting world. Bookmarks can offer an accessible entry point into collecting as they are often free or low-cost and require little space to store. I hope that this website can be viewed alongside resources such as the Instagram account [@bookstoremark](https://www.instagram.com/bookstoremark/) and numerous blogs, some of which discuss [vintage](https://adirondackgirlatheart.com/bookmark-collecting-guide/), [travel](https://danisbookshelf.com/2018/04/14/my-travel-bookmark-collection/), and [Halloween](https://www.ifobookmarks.org/blog/category/collecting-bookmarks) bookmarks (among other topics). Those interested in more information about bookmark collecting can look to [The International Friends of Bookmarks](https://www.ifobookmarks.org/bookmark-swap.html) website. I hope that this poject can be utilized by book lovers, booksellers, designers, and those interested in paper and material culture. 
 
- {% include feature/image.html objectid="https://www.finebooksmagazine.com/sites/default/files/styles/gallery_item/public/media-images/2023-09/bookmarks-collection.jpg?itok=CkSzCyqY" caption="A sample of bookmarks collected by Stuart Hudson who focuses on bookstore bookmarks from across the globe; photo by Hannah Hudson." link="https://www.finebooksmagazine.com/issue/love-humble-bookmark" width="25" alt="Stuart Hudson's bookmark collection" %}
+ {% include feature/image.html objectid="https://www.finebooksmagazine.com/sites/default/files/styles/gallery_item/public/media-images/2023-09/bookmarks-collection.jpg?itok=CkSzCyqY" caption="A sample of bookmarks collected by Stuart Hudson who focuses on bookstore bookmarks from across the globe. Photo by Hannah Hudson." link="https://www.finebooksmagazine.com/issue/love-humble-bookmark" width="25" alt="Stuart Hudson's bookmark collection" %}
 
 # *Technical Details*
 
@@ -87,8 +87,6 @@ A list of some interesting articles that I came accross during this project.
 - [Bookmarka](https://www.abaa.org/member-articles/bookmarks) (Antiquarian Booksellers Association of America)
 - [Beauty And Utility: The History Of Bookmarks](https://bookstr.com/article/beauty-and-utility-the-history-of-bookmarks/) (Joanne Chung)
 - [Smart Medieval Bookmarks](https://medievalbooks.nl/2014/09/22/smart-medieval-bookmarks/) (Erik Kwakkel, medievalbooks)
-
-</lb>
 
 *On Bookstores*:
 - [Bed Stuy Welcomes Two Independent Bookstores on Tompkins Avenue](https://www.brownstoner.com/brooklyn-life/bed-stuy-bookstore-the-word-is-change-dear-friend-books/) (Anna Bradley-Smith, Brownstoner)
