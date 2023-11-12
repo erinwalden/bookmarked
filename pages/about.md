@@ -29,11 +29,13 @@ I am extremely grateful to friends and family who have gifted bookmarks to me th
 {% include feature/image.html objectid="bookmark027" width="25" caption="A bookmark from Greta's trip to Scotland in 2022." %}
 
 This project was created for [Z652: Digtial Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA23/) with Professor [John Walsh](https://homes.luddy.indiana.edu/jawalsh/) and [Alex Wingate](https://alexandraewingate.com/).
+
 ---
 # Bookmark Collecting
 
 There is a rich community of [bookmark collectors](https://www.biblio.com/book-collecting/what-to-collect/ephemera/bookmarks/). Bookmarks can offer an accessible entry into collecting as they are often complementary and require little space to store. I hope that this resource can be viewed alongside resources such as the Instagram account [@bookstoremark](https://www.instagram.com/bookstoremark/) and numerous blogs, some of which discuss [vintage](https://adirondackgirlatheart.com/bookmark-collecting-guide/), [travel](https://danisbookshelf.com/2018/04/14/my-travel-bookmark-collection/), and [Halloween](https://www.ifobookmarks.org/blog/category/collecting-bookmarks) bookmarks (among other topics). Those interested in more information about bookmark collecting can look to [The International Friends of Bookmarks](https://www.ifobookmarks.org/bookmark-swap.html) website. Ultimately, this project is intended for everyone including book lovers, booksellers, designers, and those interested in paper and material culture. 
 
+---
 ## Technical Details
 
 Bookmarks in the collection are contained in single image JPEG or PNG files. When a bookmark had two sides, I scanned each side separately and used InDesign to put them into one file. All photos *other than bookmarks* are hosted on my [personal Are.na account](https://www.are.na/erin-lee-walden/bookmarks-7hitlyaje5i). I hope that hosting the images on an additional platform can increase the exposure and reach of this site.
