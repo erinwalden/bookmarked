@@ -42,7 +42,7 @@ Kathryn (she/her) is a real estate agent and photographer. She hosts great parti
 ### Greta Skagerlind
 [Greta](https://gskagerlind.com/) (he/him) is a graphic designer in NY. He is the proud long-distance father of Chester, the best cat.
 
-{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670666/original_38c290881ef5e8ff99f36f0f026d9c35.png?1699809255?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24670982/original_21a18fba897b3cc35a7e5f4d7c192dd3.png?1699811338?bc=0" width="75" alt="Greta at a bookstore;Greta at a bookstore;" caption="Greta at Bookhaven;And at Indy Reads in 2022. Photo credits: Erin Walden."%}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670666/original_38c290881ef5e8ff99f36f0f026d9c35.png?1699809255?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24671095/original_e929c88bac2a2b188c3658d5558d9302.png?1699811770?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24671059/original_ccc9b020e2fc4911fbc92fc2526bb92a.png?1699811641?bc=0" width="100" alt="Greta at a bookstore;Greta at a bookstore;Greta and Erin at a bookstore" caption="Greta at Bookhaven;, at Indy Reads;,and with Erin at Persephone Books in England. Photo credits: Erin Walden."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Greta's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Greta%20Skagerlind" color="danger" %}</p>
 
@@ -50,6 +50,6 @@ Kathryn (she/her) is a real estate agent and photographer. She hosts great parti
 ### Celia Walden
 [Celia](https://cals.cornell.edu/news/2022/05/digital-agriculture-internships-spark-interdisciplinary-insights) (she/her) is a data analyst and rock climber based in Boulder, Colorado. She knows everything about organic pesticides and [Pusheen](https://pusheen.com/).
 
-{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670684/original_f6b0f811731dadf830943f6f4c061c69.png?1699809373?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24670835/original_c436c7c66ad6547fa31af72e38668cd2.png?1699810376?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24670678/original_0707730693631f47072d875360d818a1.png?1699809340?bc=0" width="100" alt="Celia on a mountain;Celia on a mountain;Bookstore in Maine" caption="Celia on Cadillac Mountain in Acadia National Park; Celia somewhere else in Acadia; A bookstore called <i>Lobster Lane Books</i> that we passed on our drive up to Maine. Photo credits: Erin Walden."%}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670684/original_f6b0f811731dadf830943f6f4c061c69.png?1699809373?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24670835/original_c436c7c66ad6547fa31af72e38668cd2.png?1699810376?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24670678/original_0707730693631f47072d875360d818a1.png?1699809340?bc=0" width="100" alt="Celia on a mountain;Celia on a mountain;Bookstore in Maine" caption="Celia on Cadillac Mountain in Acadia National Park;,and somewhere else in Acadia.;A bookstore called <i>Lobster Lane Books</i> that we passed on our drive up to Maine. Photo credits: Erin Walden."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Celia's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Celia%20Walden" color="light" %}</p>
