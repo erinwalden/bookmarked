@@ -55,6 +55,7 @@ Kathryn (she/her) is a real estate agent and photographer. She hosts great parti
 ### Celia Walden
 [Celia](https://cals.cornell.edu/news/2022/05/digital-agriculture-internships-spark-interdisciplinary-insights) (she/her) is a data analyst and rock climber based in Boulder, Colorado. She knows everything about organic pesticides and [Pusheen](https://pusheen.com/).
 
-{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670684/original_f6b0f811731dadf830943f6f4c061c69.png?1699809373?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24670678/original_0707730693631f47072d875360d818a1.png?1699809340?bc=0" width="75" alt="Celia on a mountain;Bookstore in Maine" caption="Celia on Cadillac Mountain in Acadia National Park,;and a bookstore called <i>Lobster Lane Books</i> that we passed on our drive up to Maine. Photo credits: Erin Walden."%}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670684/original_f6b0f811731dadf830943f6f4c061c69.png?1699809373?bc=0" width="25" alt="Celia on a mountain"%}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670678/original_0707730693631f47072d875360d818a1.png?1699809340?bc=0" width="25" alt="Bookstore in Maine" caption="Celia on Cadillac Mountain in Acadia National Park and a bookstore called <i>Lobster Lane Books</i> that we passed on our drive up to Maine.<br/>Photo credits: Erin Walden."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Celia's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Celia%20Walden" color="light" %}</p>
