@@ -46,7 +46,9 @@ Kathryn (she/her) is a real estate agent and photographer. She hosts great parti
 ### Greta Skagerlind
 [Greta](https://gskagerlind.com/) (he/him) is a graphic designer in NY. He is the proud long-distance father of Chester, the best cat.
 
-{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670666/original_38c290881ef5e8ff99f36f0f026d9c35.png?1699809255?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24671095/original_e929c88bac2a2b188c3658d5558d9302.png?1699811770?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24671059/original_ccc9b020e2fc4911fbc92fc2526bb92a.png?1699811641?bc=0" width="100" alt="Greta at a bookstore;Greta at a bookstore;Greta and Erin at a bookstore" caption="Greta at Bookhaven,;at Indy Reads,;and with Erin at Persephone Books in England. Photo credits: Erin Walden."%}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670666/original_38c290881ef5e8ff99f36f0f026d9c35.png?1699809255?bc=0" width="25" alt="Greta at a bookstore"%}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24671095/original_e929c88bac2a2b188c3658d5558d9302.png?1699811770?bc=0" width="25" alt="Greta at a bookstore"%}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24671059/original_ccc9b020e2fc4911fbc92fc2526bb92a.png?1699811641?bc=0" width="25" alt="Greta and Erin at a bookstore" caption="Greta at Bookhaven, Indy Reads, and with Erin at Persephone Books in England.<br/>Photo credits: Erin Walden."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Greta's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Greta%20Skagerlind" color="danger" %}</p>
 
