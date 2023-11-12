@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24663525/original_eab874a0a96614b6bcf89d38218e2e18.png?1699745360?bc=0" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Bookmark Collecting;Rights Statement" %}
+{% include feature/nav-menu.html sections="About the Collection;Bookmark Collecting;Technical Details;Rights Statement;Citations;Further Reading" %}
 ## About the Collection
 
 This site hosts a digitized collection of bookmarks from independent bookstores sourced from my collection of bookmarks. The bookstores represented here are primarily located in the United States, though some have been sourced from around the world with the help of my friends and family. This project follows the [Library of Congress Technical Standards for Digital Conversion of Text and Graphic Materials](https://memory.loc.gov/ammem/about/techStandards.pdf) and implements rich metadata to create a functional and user-friendly browsing experience.
@@ -25,6 +25,8 @@ Represented here are trips to Portland, Oregon to visit my cousins and many trip
 
 I am extremely grateful to friends and family who have gifted bookmarks to me throughout the years. You can learn more about these contributors on the [**Contributor Page**](https://erinwalden.github.io/bookmarked/contributors.html).
 
+{% include feature/image.html objectid="bookmark027" width="25" caption="A bookmark from Greta's trip to Scotland in 2022." %}
+
 This project was created for [Z652: Digtial Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA23/) with Professor [John Walsh](https://homes.luddy.indiana.edu/jawalsh/) and [Alex Wingate](https://alexandraewingate.com/).
 
 ## Bookmark Collecting
@@ -33,11 +35,11 @@ There is a rich community of [bookmark collectors](https://www.biblio.com/book-c
 
 ## Technical Details
 
-Bookmarks in the collection are contained in single image files. When a bookmark had two sides, I scanned each side separately and used InDesign to put them together into one file. All photos *other than bookmarks* are hosted on my [personal Are.na account](https://www.are.na/erin-lee-walden/bookmarks-7hitlyaje5i). This allowed me to more easily change and edit the images, instead of uploading each object to my repository. 
+Bookmarks in the collection are contained in single image JPEG or PNG files. When a bookmark had two sides, I scanned each side separately and used InDesign to put them into one file. All photos *other than bookmarks* are hosted on my [personal Are.na account](https://www.are.na/erin-lee-walden/bookmarks-7hitlyaje5i). I hope that hosting the images on an additional platform can increase the exposure and reach of this site.
 
 Metadata fields for this project are listed below. Those with links are searchable and will take you to the the browse page for that field:
 - Title
-- Format: [PNG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fpng) (containing a front and back) or [JPEG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fjpeg) (front only)
+- Format: [PNG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fpng) (bookmakr with a front and back) or [JPEG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fjpeg) (front only)
 - [Tagline](https://erinwalden.github.io/bookmarked/tagline.html)
 - [Bookstore specialization](https://erinwalden.github.io/bookmarked/subjects.html)
 - Bookstore status: [Open](https://erinwalden.github.io/bookmarked/browse.html#Open) or [Closed](https://erinwalden.github.io/bookmarked/browse.html#Closed%20permanently)
@@ -49,10 +51,10 @@ Metadata fields for this project are listed below. Those with links are searchab
 - [Color](https://erinwalden.github.io/bookmarked/color.html)
 - [Material](https://erinwalden.github.io/bookmarked/material.html)
 - Size
-- Damage
+- [Damage](https://erinwalden.github.io/bookmarked/damage.html)
 - Personal note
 
-You can see the Metadata Application Profile [here]().
+You can see the Metadata Application Profile [here](https://erinwalden.github.io/bookmarked/metadataprofile.html).
 
 ## Rights Statement
 
