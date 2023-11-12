@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;Bookmark Collecting;Technical Details;Rights Statement;Citations;Further Reading" %}
 
-# About the Collection
+# *About the Collection*
 
 This site hosts a digitized collection of bookmarks from independent bookstores sourced from my collection of bookmarks. The bookstores represented here are primarily located in the United States, though some have been sourced from around the world with the help of my friends and family. This project follows the [Library of Congress Technical Standards for Digital Conversion of Text and Graphic Materials](https://memory.loc.gov/ammem/about/techStandards.pdf) and implements rich metadata to create a functional and user-friendly browsing experience.
 
@@ -30,7 +30,7 @@ I am extremely grateful to friends and family who have gifted bookmarks to me th
 
 This project was created for [Z652: Digtial Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA23/) with Professor [John Walsh](https://homes.luddy.indiana.edu/jawalsh/) and [Alex Wingate](https://alexandraewingate.com/).
 
-### Bookmark Collecting
+# Bookmark Collecting
 
 There is a rich community of [bookmark collectors](https://www.biblio.com/book-collecting/what-to-collect/ephemera/bookmarks/). Bookmarks can offer an accessible entry into collecting as they are often complementary and require little space to store. I hope that this resource can be viewed alongside resources such as the Instagram account [@bookstoremark](https://www.instagram.com/bookstoremark/) and numerous blogs, some of which discuss [vintage](https://adirondackgirlatheart.com/bookmark-collecting-guide/), [travel](https://danisbookshelf.com/2018/04/14/my-travel-bookmark-collection/), and [Halloween](https://www.ifobookmarks.org/blog/category/collecting-bookmarks) bookmarks (among other topics). Those interested in more information about bookmark collecting can look to [The International Friends of Bookmarks](https://www.ifobookmarks.org/bookmark-swap.html) website. Ultimately, this project is intended for everyone including book lovers, booksellers, designers, and those interested in paper and material culture. 
 
