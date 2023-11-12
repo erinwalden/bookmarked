@@ -5,8 +5,8 @@ permalink: /tagline.html
 cloud-fields: tagline
 cloud-min: 1
 cloud-stopwords:
-background: dark
-button: outline-primary
+background: primary
+button: outline-dark
 
 ---
 
