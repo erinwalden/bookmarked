@@ -21,24 +21,31 @@ Kathryn (she/her) is a real estate agent and photographer. She hosts great parti
 <p style="text-align: center;">{% include feature/button.html text="Browse Kathryn's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Kathryn%20Huang" color="success" %}</p>
 
 ---
+
 ### Elisabeth Schifrin
 [Elisabeth](https://elisabethschifrin.cargo.site/) (she/her) is a NY based filmmaker and artist. She writes amazing letters.
 
 {% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670438/original_a6c7100ae26fd41622326e97ce2058a7.png?1699808556?bc=0" width="25" alt="Photo of Elisabeth" caption="Elisabeth at the vegetarian co-op in 2018."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Elisabeth's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Elisabeth%20Schifrin" color="info" %}</p>
+
 ---
+
 ### Anita Sheih
 [Anita](https://www.anitasheih.com/) (she/her) is a designer, photographer, and artist. She always has the perfect restaurant recommendation and is great at giving gifts.
 
-{% include feature/button.html text="Browse Anita's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Anita%20Sheih" color="danger" %}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670628/original_3055441d6b2bb527d016c29c80e6147e.png?1699808973?bc=0" width="25" alt="Anita at a bookstore." caption="Anita at Bookhaven in June 2023.<br/>Photo credits: Erin Walden."%}
+
+<p style="text-align: center;">{% include feature/button.html text="Browse Anita's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Anita%20Sheih" color="warning" %}</p>
+
 ---
 ### Greta Skagerlind
 [Greta](https://gskagerlind.com/) (he/him) is a graphic designer in NY. He is the proud long-distance father of Chester, the best cat.
 
-{% include feature/button.html text="Browse Greta's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Greta%20Skagerlind" color="danger" %}
+<p style="text-align: center;">{% include feature/button.html text="Browse Greta's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Greta%20Skagerlind" color="danger" %}</p>
+
 ---
 ### Celia Walden
 [Celia](https://cals.cornell.edu/news/2022/05/digital-agriculture-internships-spark-interdisciplinary-insights) (she/her) is a data analyst and rock climber based in Boulder, Colorado. She knows everything about organic pesticides and [Pusheen](https://pusheen.com/).
 
-{% include feature/button.html text="Browse Celia's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Celia%20Walden" color="danger" %}
+<p style="text-align: center;">{% include feature/button.html text="Browse Celia's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Celia%20Walden" color="light" %}</p>
