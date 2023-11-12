@@ -17,7 +17,7 @@ Erin (she/her) is a Master's student in the [English](https://english.indiana.ed
 ### Kathryn Huang
 Kathryn (she/her) is a real estate agent and photographer. She hosts great parties.
 
-{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670162/original_eee3eb3030229da58e07d838889ec86e.png?1699806951?bc=0" width="25" alt="Greta and Kathryn in England" caption="Kathryn (right) and Greta (left) at [The Circus](https://en.wikipedia.org/wiki/The_Circus,_Bath) in Bath, England, just after visiting [Persephone Books](https://persephonebooks.co.uk/), July, 2023.<br/>Photo credits: Erin Walden."%}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670162/original_eee3eb3030229da58e07d838889ec86e.png?1699806951?bc=0" width="25" alt="Greta and Kathryn in England" caption="Kathryn (right) and Greta (left) at text="The Circus" link= "https://en.wikipedia.org/wiki/The_Circus,_Bath" in Bath, England, just after visiting text="Persephone Books" link="https://persephonebooks.co.uk/", July, 2023.<br/>Photo credits: Erin Walden."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Kathryn's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Kathryn%20Huang" color="success" %}</p>
 
