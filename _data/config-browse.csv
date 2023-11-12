@@ -5,4 +5,5 @@ location,Location,true,,Location
 bookstorestatus,Bookstore Status,,true,,
 color,Color,true,,,
 material,Material,,true,,
+damage,Damage,,true,,
 source,Bookmark Recipient,,true,,
