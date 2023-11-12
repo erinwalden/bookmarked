@@ -23,7 +23,7 @@ Represented here are trips to Portland, Oregon to visit my cousins and many trip
 
 {% include feature/image.html objectid="bookmark017" width="25" caption="A bookmark picked up in Columbus, Ohio while on a 14-hour drive from Indiana to New York." %}
 
-I am extremely grateful to friends and family who have gifted bookmarks to me throughout the years. You can learn more about these contributors on the [==Contributor Page==](https://erinwalden.github.io/bookmarked/contributors.html).
+I am extremely grateful to friends and family who have gifted bookmarks to me throughout the years. You can learn more about these contributors on the [**Contributor Page**](https://erinwalden.github.io/bookmarked/contributors.html).
 
 This project was created for [Z652: Digtial Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA23/) with Professor [John Walsh](https://homes.luddy.indiana.edu/jawalsh/) and [Alex Wingate](https://alexandraewingate.com/).
 
@@ -37,7 +37,7 @@ Bookmarks in the collection are contained in single image files. When a bookmark
 
 Metadata fields for this project are listed below. Those with links are searchable and will take you to the the browse page for that field:
 - Title
-- Format: [PNG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fpng)(containing a front a back) or [JPEG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fjpeg) (front only)
+- Format: [PNG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fpng) (containing a front and back) or [JPEG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fjpeg) (front only)
 - [Tagline](https://erinwalden.github.io/bookmarked/tagline.html)
 - [Bookstore specialization](https://erinwalden.github.io/bookmarked/subjects.html)
 - Bookstore status: [Open](https://erinwalden.github.io/bookmarked/browse.html#Open) or [Closed](https://erinwalden.github.io/bookmarked/browse.html#Closed%20permanently)
@@ -58,4 +58,10 @@ You can see the Metadata Application Profile [here]().
 
 My understanding is that Fair Use Permission applies to these bookmarks. When known, I have credited artists/designers. Please reach out to erwalden@iu.edu with questions or concerns.
 
-## Further Reading and Citations
+## Citations
+
+This project uses [Athelas](https://fonts.adobe.com/fonts/athelas#fonts-section), designed by [José Scaglione](https://fonts.adobe.com/designers/jose-scaglione) and [Veronika Burian](https://fonts.adobe.com/designers/veronika-burian) from [TypeTogether](https://fonts.adobe.com/foundries/typetogether). The full Adobe Fonts library is cleared for both [personal and commercial use](https://fonts.adobe.com/fonts/athelas#licensing-section).
+
+## Further Reading
+
+A list of some interesting articles that I came accross during this project:
