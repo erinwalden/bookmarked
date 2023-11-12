@@ -42,10 +42,14 @@ Kathryn (she/her) is a real estate agent and photographer. She hosts great parti
 ### Greta Skagerlind
 [Greta](https://gskagerlind.com/) (he/him) is a graphic designer in NY. He is the proud long-distance father of Chester, the best cat.
 
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670666/original_38c290881ef5e8ff99f36f0f026d9c35.png?1699809255?bc=0" width="25" alt="Greta at a bookstore." caption="Greta at Bookhaven in 2022.<br/>Photo credits: Erin Walden."%}
+
 <p style="text-align: center;">{% include feature/button.html text="Browse Greta's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Greta%20Skagerlind" color="danger" %}</p>
 
 ---
 ### Celia Walden
 [Celia](https://cals.cornell.edu/news/2022/05/digital-agriculture-internships-spark-interdisciplinary-insights) (she/her) is a data analyst and rock climber based in Boulder, Colorado. She knows everything about organic pesticides and [Pusheen](https://pusheen.com/).
+
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670684/original_f6b0f811731dadf830943f6f4c061c69.png?1699809373?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24670678/original_0707730693631f47072d875360d818a1.png?1699809340?bc=0" caption="this guy!;(was nothing without these women!)" alt="Celia on a mountain;Book store in Maine" caption="Celia on Cadillac Mountain in Acadia National Park and a bookstore called <i>Lobster Lane Books</i> that we passed on our drive up to Main.<br/>Photo credits: Erin Walden."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Celia's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Celia%20Walden" color="light" %}</p>
