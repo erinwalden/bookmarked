@@ -16,7 +16,7 @@ Erin (she/her) is a Master's student in the [English](https://english.indiana.ed
 ### Kathryn Huang
 Kathryn (she/her) is a real estate agent and photographer. She hosts great parties.
 
-{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670162/original_eee3eb3030229da58e07d838889ec86e.png?1699806951?bc=0" width="25" alt="Greta and Kathryn in England" caption="Kathryn (right) and Greta (left) at The Circus in Bath, England, just after visiting Persephone Books (July, 2023).<br/>Photo credits: Erin Walden."%}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670162/original_eee3eb3030229da58e07d838889ec86e.png?1699806951?bc=0" width="25" alt="Greta and Kathryn in England" caption="Kathryn (right) and Greta (left) at The Circus in Bath, England, just after visiting Persephone Books in July, 2023.<br/>Photo credits: Erin Walden."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Kathryn's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Kathryn%20Huang" color="success" %}</p>
 
@@ -50,6 +50,6 @@ Kathryn (she/her) is a real estate agent and photographer. She hosts great parti
 ### Celia Walden
 [Celia](https://cals.cornell.edu/news/2022/05/digital-agriculture-internships-spark-interdisciplinary-insights) (she/her) is a data analyst and rock climber based in Boulder, Colorado. She knows everything about organic pesticides and [Pusheen](https://pusheen.com/).
 
-{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670684/original_f6b0f811731dadf830943f6f4c061c69.png?1699809373?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24670678/original_0707730693631f47072d875360d818a1.png?1699809340?bc=0" caption="this guy!;(was nothing without these women!)" alt="Celia on a mountain;Book store in Maine" caption="Celia on Cadillac Mountain in Acadia National Park and a bookstore called <i>Lobster Lane Books</i> that we passed on our drive up to Main.<br/>Photo credits: Erin Walden."%}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670684/original_f6b0f811731dadf830943f6f4c061c69.png?1699809373?bc=0;https://d2w9rnfcy7mm78.cloudfront.net/24670678/original_0707730693631f47072d875360d818a1.png?1699809340?bc=0" width="50" alt="Celia on a mountain;Bookstore in Maine" caption="Celia on Cadillac Mountain in Acadia National Park; A bookstore called <i>Lobster Lane Books</i> that we passed on our drive up to Main.<br/>Photo credits: Erin Walden."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Celia's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Celia%20Walden" color="light" %}</p>
