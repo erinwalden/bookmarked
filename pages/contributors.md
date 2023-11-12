@@ -11,7 +11,6 @@ Erin (she/her) is a Master's student in the [English](https://english.indiana.ed
 {% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24669970/original_cc27b5ff53949755dda4c4f3b07d8667.png?1699805899?bc=0" width="25" alt="Erin at a bookstore." caption="Erin at Bookhaven in Philadelphia (2021).<br/>Photo credits: Greta Skagerlind."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Erin's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Erin%20Walden" color="secondary" %}</p>
-
 ## Contributors
 
 ### Kathryn Huang
@@ -25,7 +24,9 @@ Kathryn (she/her) is a real estate agent and photographer. She hosts great parti
 ### Elisabeth Schifrin
 [Elisabeth](https://elisabethschifrin.cargo.site/) (she/her) is a NY based filmmaker and artist. She writes amazing letters.
 
-{% include feature/button.html text="Browse Elisabeth's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Elisabeth%20Schifrin" color="danger" %}
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670438/original_a6c7100ae26fd41622326e97ce2058a7.png?1699808556?bc=0" width="25" alt="Photo of Elisabeth" caption="Elisabeth at the vegetarian co-op in 2018."%}
+
+<p style="text-align: center;">{% include feature/button.html text="Browse Elisabeth's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Elisabeth%20Schifrin" color="info" %}</p>
 ---
 ### Anita Sheih
 [Anita](https://www.anitasheih.com/) (she/her) is a designer, photographer, and artist. She always has the perfect restaurant recommendation and is great at giving gifts.
