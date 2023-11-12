@@ -16,11 +16,11 @@ credits: true
 
 This site hosts a digitized collection of bookmarks from independent bookstores sourced from my collection of bookmarks. The bookstores represented here are primarily located in the United States, though some have been sourced from around the world with the help of my friends and family. This project follows the [Library of Congress Technical Standards for Digital Conversion of Text and Graphic Materials](https://memory.loc.gov/ammem/about/techStandards.pdf) and implements rich metadata to create a functional and user-friendly browsing experience.
 
-Since 2016, the year that I started my undergraduate education, I have been collecting bookmarks. The bookstores represented here follow the trajectory of my life, starting in Providence, RI, moving occasionally through New York City, Long Island, and Massachusetts, and slowly creeping toward the midwest through Philadelphia and Ohio. 
+Since 2016, the year that I started my undergraduate education, I have been collecting bookmarks. The bookstores represented here follow the trajectory of my life, starting in Providence, RI, moving occasionally through New York City, Long Island, and Massachusetts, and slowly creeping toward the Midwest through Philadelphia and Ohio. 
 
 {% include feature/image.html objectid="bookmark002" width="25" caption="The earliest bookmark in this collection, acquired in Providence, RI in 2017." %}
 
-Portrayed here are trips to Portland, Oregon to visit my cousins and many trips back-and-forth from the East Coast to Midwest. My larger personal collection also includes bookmarks from various cultural institutions and small presses, including the [Shofuso Japanese Cultural Center](https://japanphilly.org/shofuso/) in Philadelphia and [*Fortune*](https://printingfortunes.info/) a Philadelphia-based print collective assembled by/for queer and trans Asians. For the purpose of this project, I have decided to include only bookmarks from independent bookstores.
+Portrayed here are trips to Portland, Oregon to visit my cousins and many trips back-and-forth from the East Coast to Indiana. My larger personal collection also includes bookmarks from various cultural institutions and small presses, including the [Shofuso Japanese Cultural Center](https://japanphilly.org/shofuso/) in Philadelphia and [*Fortune*](https://printingfortunes.info/) a Philadelphia-based print collective assembled by/for queer and trans Asians. For this project, I have decided to include only bookmarks from independent bookstores.
 
 {% include feature/image.html objectid="bookmark017" width="25" caption="A bookmark picked up in Columbus, Ohio while on a 14-hour drive from Indiana to New York." %}
 
@@ -28,11 +28,11 @@ I am extremely grateful to friends and family who have gifted bookmarks to me th
 
 {% include feature/image.html objectid="bookmark027" width="25" caption="A bookmark from Greta's trip to Scotland in 2022." %}
 
-This project was created for [Z652: Digtial Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA23/) with Professor [John Walsh](https://homes.luddy.indiana.edu/jawalsh/) and [Alex Wingate](https://alexandraewingate.com/).
+This project was created for [Z652: Digital Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA23/) with Professor [John Walsh](https://homes.luddy.indiana.edu/jawalsh/) and [Alex Wingate](https://alexandraewingate.com/).
 
 # *Bookmark Collecting*
 
-There is a rich histy of [bookmark collecting](https://www.biblio.com/book-collecting/what-to-collect/ephemera/bookmarks/), especially in the book collecting world. Bookmarks can offer an accessible entry point into collecting as they are often free or low-cost and require little space to store. I hope that this website can be viewed alongside resources such as the Instagram account [@bookstoremark](https://www.instagram.com/bookstoremark/) and numerous blogs, some of which discuss [vintage](https://adirondackgirlatheart.com/bookmark-collecting-guide/), [travel](https://danisbookshelf.com/2018/04/14/my-travel-bookmark-collection/), and [Halloween](https://www.ifobookmarks.org/blog/category/collecting-bookmarks) bookmarks (among other topics). Those interested in more information about bookmark collecting can look to [The International Friends of Bookmarks](https://www.ifobookmarks.org/bookmark-swap.html) website. I hope that this poject can be utilized by book lovers, booksellers, designers, and those interested in paper and material culture. 
+There is a rich history of [bookmark collecting](https://www.biblio.com/book-collecting/what-to-collect/ephemera/bookmarks/), especially in the book collecting world. Bookmarks can offer an accessible entry point into collecting as they are often free or low-cost and require little space to store. I hope that this website can be viewed alongside resources such as the Instagram account [@bookstoremark](https://www.instagram.com/bookstoremark/) and numerous blogs, some of which discuss [vintage](https://adirondackgirlatheart.com/bookmark-collecting-guide/), [travel](https://danisbookshelf.com/2018/04/14/my-travel-bookmark-collection/), and [Halloween](https://www.ifobookmarks.org/blog/category/collecting-bookmarks) bookmarks (among other topics). Those interested in more information about bookmark collecting can look to [The International Friends of Bookmarks](https://www.ifobookmarks.org/bookmark-swap.html) website. I hope that this project can be utilized by book lovers, booksellers, designers, and those interested in paper and material culture. 
 
  {% include feature/image.html objectid="https://www.finebooksmagazine.com/sites/default/files/styles/gallery_item/public/media-images/2023-09/bookmarks-collection.jpg?itok=CkSzCyqY" caption="A sample of bookmarks collected by Stuart Hudson who focuses on bookstore bookmarks from across the globe. Photo by Hannah Hudson." link="https://www.finebooksmagazine.com/issue/love-humble-bookmark" width="25" alt="Stuart Hudson's bookmark collection" %}
 
@@ -40,9 +40,9 @@ There is a rich histy of [bookmark collecting](https://www.biblio.com/book-colle
 
 Bookmarks in the collection are contained in single image JPEG or PNG files. When a bookmark had two sides, I scanned each side separately and used InDesign to put them into one file. All photos *other than bookmarks* are hosted on my [personal Are.na account](https://www.are.na/erin-lee-walden/bookmarks-7hitlyaje5i). I hope that hosting the images on an additional platform can increase the exposure and reach of this site.
 
-Metadata fields for this project are listed below. Those with links are searchable and will take you to the the browse page for that field:
+Metadata fields for this project are listed below. Those with links are searchable and will take you to the browse page for that field:
 - Title
-- Format: [PNG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fpng) (bookmakr with a front and back) or [JPEG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fjpeg) (front only)
+- Format: [PNG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fpng) (bookmark with a front and back) or [JPEG](https://erinwalden.github.io/bookmarked/browse.html#image%2Fjpeg) (front only)
 - [Tagline](https://erinwalden.github.io/bookmarked/tagline.html)
 - [Bookstore specialization](https://erinwalden.github.io/bookmarked/subjects.html)
 - Bookstore status: [Open](https://erinwalden.github.io/bookmarked/browse.html#Open) or [Closed](https://erinwalden.github.io/bookmarked/browse.html#Closed%20permanently)
@@ -76,15 +76,15 @@ Controlled Vocabularies:
 - [Getty Art & Architecture Thesaurus](https://www.getty.edu/vow/AATHierarchy?find=paper&logic=AND&note=&page=1&subjectid=300014109)
 - [Smithsonian Museum Conservation Institute Sources of Deterioration and Damage to Paper Materials](https://mci.si.edu/sources-deterioration-and-damage-paper-materials)
 
-  You can see the color palatte that I used on [this Coolors page](https://coolors.co/f7ebde-ecf39e-302e2b-606c38-525174-9e5580-9d5a1b-283618).
+You can see the color palette that I used on [this Coolors page](https://coolors.co/f7ebde-ecf39e-302e2b-606c38-525174-9e5580-9d5a1b-283618).
 
 ### Further Reading
 
-A list of some interesting articles that I came accross during this project.
+A list of some interesting articles that I came across during this project.
 
 *On Bookmarks*:
 - [Bookmarks Past and Present](https://sjmuseum.wordpress.com/2022/07/29/bookmarks-past-and-present/#:~:text=The%20earliest%20bookmark%20so%20far,itself%20with%20a%20leather%20strap.) (The Samuel Johnson Birthplace Museum Blog)
-- [Bookmarka](https://www.abaa.org/member-articles/bookmarks) (Antiquarian Booksellers Association of America)
+- [Bookmarks](https://www.abaa.org/member-articles/bookmarks) (Antiquarian Booksellers Association of America)
 - [Beauty And Utility: The History Of Bookmarks](https://bookstr.com/article/beauty-and-utility-the-history-of-bookmarks/) (Joanne Chung)
 - [Smart Medieval Bookmarks](https://medievalbooks.nl/2014/09/22/smart-medieval-bookmarks/) (Erik Kwakkel, medievalbooks)
 
