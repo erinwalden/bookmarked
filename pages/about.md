@@ -56,13 +56,22 @@ Metadata fields for this project are listed below. Those with links are searchab
 
 You can see the Metadata Application Profile [here](https://erinwalden.github.io/bookmarked/metadataprofile.html).
 
-## Rights Statement
+# Rights Statement
 
 My understanding is that Fair Use Permission applies to these bookmarks. When known, I have credited artists/designers. Please reach out to erwalden@iu.edu with questions or concerns.
 
-## Citations
+### Citations
 
 This project uses [Athelas](https://fonts.adobe.com/fonts/athelas#fonts-section), designed by [José Scaglione](https://fonts.adobe.com/designers/jose-scaglione) and [Veronika Burian](https://fonts.adobe.com/designers/veronika-burian) from [TypeTogether](https://fonts.adobe.com/foundries/typetogether). The full Adobe Fonts library is cleared for both [personal and commercial use](https://fonts.adobe.com/fonts/athelas#licensing-section).
+
+Controlled Vocabularies:
+- [MIME Type](https://www.iana.org/assignments/media-types/media-types.xhtml)
+- [Library of Congress Subject Headings](https://id.loc.gov/authorities/subjects.html)
+- [Library of Congress Names](https://id.loc.gov/authorities/names.html)
+- [Census Bureau Regions and Divisions of the United States](https://www2.census.gov/geo/pdfs/reference/GARM/Ch6GARM.pdf)
+- [Color Basics 12 Color Wheel](https://www.usability.gov/how-to-and-tools/methods/color-basics.html#:~:text=Three%20Primary%20Colors%20(Ps)%3A,a%20primary%20with%20a%20secondary)
+- [Getty Art & Architecture Thesaurus](https://www.getty.edu/vow/AATHierarchy?find=paper&logic=AND&note=&page=1&subjectid=300014109)
+- [Smithsonian Museum Conservation Institute Sources of Deterioration and Damage to Paper Materials](https://mci.si.edu/sources-deterioration-and-damage-paper-materials)
 
 ## Further Reading
 
