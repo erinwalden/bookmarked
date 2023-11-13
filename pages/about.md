@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24663525/original_eab874a0a96614b6bcf89d38218e2e18.png?1699745360?bc=0" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Bookmark Collecting;Technical Details;Rights Statement;Citations;Further Reading" %}
+{% include feature/nav-menu.html sections="About the Collection;Bookmark Collecting;Technical Details;Accessibility Statement;Rights Statement;Citations;Further Reading" %}
 
 # *About the Collection*
 
@@ -58,6 +58,10 @@ Metadata fields for this project are listed below. Those with links are searchab
 - Personal note
 
 You can see the Metadata Application Profile [here](https://erinwalden.github.io/bookmarked/metadataprofile.html).
+
+### Accessibility Statement
+
+I am committed to making this website as accessible as possible. I have used the [WAVE](https://wave.webaim.org/) Web Accessibility Evaluation Chrome Extension to ensure that color contrast ratios meet ADA and WCAG guidelines and have included alt texts where applicable.
 
 ### Rights Statement
 
