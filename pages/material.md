@@ -6,7 +6,7 @@ cloud-fields: material
 cloud-min: 1
 cloud-stopwords:
 background: warning
-button: primary
+button: outline-primary
 ---
 
 ## Browse by Material
