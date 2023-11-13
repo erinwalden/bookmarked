@@ -119,7 +119,7 @@
                 } else {
                     itemYear = item.date;
                 }
-                var timelineButton = '<a href="{{ "/timeline.html" | relative_url }}#y' + itemYear + '" class="btn btn-outline-primary">View on Timeline</a>';
+                var timelineButton = '<a href="{{ "/timeline.html" | relative_url }}#y' + itemYear + '" class="btn btn-primary">View on Timeline</a>';
                 /* add timeline link to children only if specified in theme.yml */
                 {% if site.data.theme.timeline-child-objects == true %}
                     itemLink += timelineButton;
@@ -131,7 +131,7 @@
             {% if stubs contains "map" %}
             /* add link to view on map */
             var itemMarker = item.id ? item.id : itemPageId;
-            var mapButton = '<a href="{{ '/map.html' | relative_url }}?location=' + item.latitude + ',' + item.longitude + '&marker=' + itemMarker +'" class="btn btn-outline-primary">View on Map</a>';
+            var mapButton = '<a href="{{ '/map.html' | relative_url }}?location=' + item.latitude + ',' + item.longitude + '&marker=' + itemMarker +'" class="btn btn-secondary">View on Map</a>';
             if (item.latitude && item.longitude) {
                 /* add map link to children only if specified in theme.yml */
                 {% if site.data.theme.map-child-objects == true %}
@@ -151,7 +151,7 @@
             /* set up grid system for compound object cards */
             itemImage = format.includes('compound_object') ? '<div class="row row-cols-2 row-cols-lg-4 g-2">' : "";
             /* set up download dropdown button for compound object page */
-            compoundDownload = '<div class="btn-group" role="group"><button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Download</button> <ul class="dropdown-menu">';
+            compoundDownload = '<div class="btn-group" role="group"><button class="btn btn-outline-success dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Download</button> <ul class="dropdown-menu">';
 
             /* generate a modal and card for each item in compound object */
             for (let i = 0; i < compoundObject.length; i++) {
