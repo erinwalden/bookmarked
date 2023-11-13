@@ -8,7 +8,6 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Browse Bookstore Specializations
 
-Use this word cloud visualization to browse terms and subjects.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Specializations were determined by looking at the text on the bookmarks and referencing bookstore websites and social media accounts. When relevant, I have included genres that a bookstore specializes in along with whether or not they sell new books, used books, or both. Word size is determined by frequency and all words link to a corresponding collection search.
