@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24663525/original_eab874a0a96614b6bcf89d38218e2e18.png?1699745360?bc=0" %}
 
-{% include feature/nav-menu.html sections="**About the Collection**;<br>**Bookmark Collecting**;<br>**Technical Details**;Design;Accessibility Statement;Rights Statement;<br>**Citations**;Further Reading" %}
+{% include feature/nav-menu.html sections="About the Collection;Bookmark Collecting;Technical Details;Design;Accessibility Statement;Rights Statement;Citations;Further Reading" %}
 
 # *About the Collection*
 
