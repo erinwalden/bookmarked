@@ -14,13 +14,13 @@ credits: true
 
 # *About the Collection*
 
-This site hosts a digitized collection of bookmarks from independent bookstores sourced from my collection of bookmarks. The bookstores represented here are primarily located in the United States, though some have been sourced from around the world with the help of my friends and family. This project follows the [Library of Congress Technical Standards for Digital Conversion of Text and Graphic Materials](https://memory.loc.gov/ammem/about/techStandards.pdf) and implements rich metadata to create a functional and user-friendly browsing experience.
+This site hosts a digitized collection of bookmarks from independent bookstores sourced from Erin Walden's collection of bookmarks (learn more about me on the [contributor page](https://erinwalden.github.io/bookmarked/contributors.html). The bookstores represented here are primarily located in the United States, though some have been sourced from around the world with the help of my friends and family. This project follows the [Library of Congress Technical Standards for Digital Conversion of Text and Graphic Materials](https://memory.loc.gov/ammem/about/techStandards.pdf) and implements rich metadata to create a functional and user-friendly browsing experience.
 
 Since 2016, the year that I started my undergraduate education, I have been collecting bookmarks. The bookstores represented here follow the trajectory of my life, starting in Providence, RI, moving occasionally through New York City, Long Island, and Massachusetts, and slowly creeping toward the Midwest through Philadelphia and Ohio. 
 
-{% include feature/image.html objectid="bookmark002" width="25" caption="The earliest bookmark in this collection, acquired in Providence, RI in 2017." %}
+{% include feature/image.html objectid="bookmark002" width="25" caption="The earliest bookmark in this collection, acquired in Providence, RI, 2017." %}
 
-Portrayed here are trips to Portland, Oregon to visit my cousins and many trips back-and-forth from the East Coast to Indiana. My larger personal collection also includes bookmarks from various cultural institutions and small presses, including the [Shofuso Japanese Cultural Center](https://japanphilly.org/shofuso/) in Philadelphia and [*Fortune*](https://printingfortunes.info/) a Philadelphia-based print collective assembled by/for queer and trans Asians. For this project, I have decided to include only bookmarks from independent bookstores.
+You will see souvenirs from trips to Portland, Oregon to visit my cousins and road trips back-and-forth from the East Coast to Indiana. My larger personal collection includes bookmarks from various cultural institutions and small presses, including the [Shofuso Japanese Cultural Center](https://japanphilly.org/shofuso/) in Philadelphia and [*Fortune*](https://printingfortunes.info/) a Philadelphia-based print collective assembled by/for queer and trans Asians. For this project, I have decided to include only bookmarks from independent bookstores.
 
 {% include feature/image.html objectid="bookmark017" width="25" caption="A bookmark picked up in Columbus, Ohio while on a 14-hour drive from Indiana to New York." %}
 
