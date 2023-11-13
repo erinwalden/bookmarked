@@ -57,7 +57,7 @@
             if (item.format.includes('image')) {
                 itemDisplay = '<a class="spotlight gallery-img" data-download="true" href="' + item.filename + '"><img class="img-fluid" src="' + item.filename + '" alt="' + item.title + '">';
                 itemDisplay += record.format.includes('multiple') ? '</a>' : '<div><small class="text-dark">Click to view full screen</small></div></a>';
-                itemDownload = '<a href="' + item.filename + '" target="_blank" rel="noopener" class="btn btn-outline-success" title="Object download">Download ' + item.format.split("/").pop().toUpperCase() + '</a>';
+                itemDownload = '<a href="' + item.filename + '" target="_blank" rel="noopener" class="btn btn-danger" title="Object download">Download ' + item.format.split("/").pop().toUpperCase() + '</a>';
             } else if (item.format.includes('pdf')) {
                 itemDisplay = '<div class="ratio ratio-4x3"><object title="PDF file of ' + item.title + '" data="' + item.filename + '" type="application/pdf" width="100%"><p>The PDF is not rendering in your browser. Please use the button below to download the PDF.</p></object></div>';
                 itemDownload = '<a href="' + item.filename + '" target="_blank" rel="noopener" class="btn btn-outline-primary" title="Object download">Download PDF</a>';
@@ -119,7 +119,7 @@
                 } else {
                     itemYear = item.date;
                 }
-                var timelineButton = '<a href="{{ "/timeline.html" | relative_url }}#y' + itemYear + '" class="btn btn-primary">View on Timeline</a>';
+                var timelineButton = '<a href="{{ "/timeline.html" | relative_url }}#y' + itemYear + '" class="btn btn-info">View on Timeline</a>';
                 /* add timeline link to children only if specified in theme.yml */
                 {% if site.data.theme.timeline-child-objects == true %}
                     itemLink += timelineButton;
@@ -131,7 +131,7 @@
             {% if stubs contains "map" %}
             /* add link to view on map */
             var itemMarker = item.id ? item.id : itemPageId;
-            var mapButton = '<a href="{{ '/map.html' | relative_url }}?location=' + item.latitude + ',' + item.longitude + '&marker=' + itemMarker +'" class="btn btn-secondary">View on Map</a>';
+            var mapButton = '<a href="{{ '/map.html' | relative_url }}?location=' + item.latitude + ',' + item.longitude + '&marker=' + itemMarker +'" class="btn btn-warning">View on Map</a>';
             if (item.latitude && item.longitude) {
                 /* add map link to children only if specified in theme.yml */
                 {% if site.data.theme.map-child-objects == true %}
