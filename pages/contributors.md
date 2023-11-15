@@ -61,3 +61,12 @@ Kathryn (she/her) is a real estate agent and photographer. She hosts great parti
 {% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24670678/original_0707730693631f47072d875360d818a1.png?1699809340?bc=0" width="25" alt="Bookstore in Maine" caption="Celia on Cadillac Mountain in Acadia National Park and a bookstore called <i>Lobster Lane Books</i> that we passed on our drive up to Maine.<br/>Photos by Erin Walden."%}
 
 <p style="text-align: center;">{% include feature/button.html text="Browse Celia's Bookmarks" link="https://erinwalden.github.io/bookmarked/browse.html#Celia%20Walden" color="light" %}</p>
+
+<br/>
+
+### Chester
+Chester is a part-time moth hunter based in Bloomington, Indiana. He only eats houseplants sometimes.
+
+{% include feature/image.html objectid="https://d2w9rnfcy7mm78.cloudfront.net/24720413/original_d92efbc065a88c6d763acfd00da7f209.png?1699996698?bc=0" width="25" alt="Cat" caption="Chester the day he was rescued from the Philadelphia Animal Shelter."%}
+
+<p style="text-align: center;">{% include feature/button.html text="Browse Chester's Bookmarks" link="https://erinwalden.github.io/bookmarked/secret" color="primary" %}</p>
