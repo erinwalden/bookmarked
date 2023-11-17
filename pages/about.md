@@ -65,7 +65,7 @@ You can see the Metadata Application Profile [here](https://erinwalden.github.io
 
 ### Design
 
-This project uses [Athelas](https://fonts.adobe.com/fonts/athelas#fonts-section), designed by [José Scaglione](https://fonts.adobe.com/designers/jose-scaglione) and [Veronika Burian](https://fonts.adobe.com/designers/veronika-burian) from [TypeTogether](https://fonts.adobe.com/foundries/typetogether). The full Adobe Fonts library is cleared for both [personal and commercial use](https://fonts.adobe.com/fonts/athelas#licensing-section).
+This project uses [Athelas](https://www.type-together.com/athelas-font), designed by [José Scaglione](https://fonts.adobe.com/designers/jose-scaglione) and [Veronika Burian](https://fonts.adobe.com/designers/veronika-burian) from [TypeTogether](https://fonts.adobe.com/foundries/typetogether). The full Adobe Fonts library is cleared for both [personal and commercial use](https://fonts.adobe.com/fonts/athelas#licensing-section).
 
 You can see the color palette that I used on [this Coolors page](https://coolors.co/f7ebde-ecf39e-302e2b-606c38-525174-9e5580-9d5a1b-283618).
 
