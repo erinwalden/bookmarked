@@ -101,3 +101,5 @@ A list of some interesting articles that I came across during this project.
 *On Bookstores*:
 - [Bed Stuy Welcomes Two Independent Bookstores on Tompkins Avenue](https://www.brownstoner.com/brooklyn-life/bed-stuy-bookstore-the-word-is-change-dear-friend-books/) (Anna Bradley-Smith, Brownstoner)
 - [The New York Neighborhood Where the Art Bookstore Is Alive and Well](https://www.nytimes.com/2018/06/15/t-magazine/art-bookstores.html) (Chris Black, T Magazine)
+- [Some Surprising Good News: Bookstores Are Booming and Becoming More Diverse](https://www.nytimes.com/2022/07/10/books/bookstores-diversity-pandemic.html) (Alexandra Alter and Elizabeth A. Harris, The New York Times)
+- [The Joy and Privilege of Growing Up in an Indie Bookstore: Erik Hoel on His Formative Years in the Shelves of His Mother’s Bookstore, The Jabberwocky](https://lithub.com/the-joy-and-privilege-of-growing-up-in-an-indie-bookstore/) (Erik Hoel, Literary Hub)
