@@ -3,7 +3,7 @@ title: Contributors
 layout: about
 permalink: /contributors.html
 ---
-{% include feature/nav-menu.html sections="Erin Walden;Kathryn Huang;Elisabeth Schifrin;Anita Sheih;Greta Skagerlind;Celia Walden" %}
+{% include feature/nav-menu.html sections="Erin Walden;Kathryn Huang;Elisabeth Schifrin;Anita Sheih;Greta Skagerlind;Celia Walden;Chester" %}
 
 # *Creator*
 
