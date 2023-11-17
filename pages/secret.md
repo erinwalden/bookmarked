@@ -26,7 +26,7 @@ I really appreciate you for making it this far on the website. To thank you, her
 - [A poet, a doctor, a muse: Meet the bookstore cats of Philadelphia](https://billypenn.com/2022/10/10/bookstore-cats-philadelphia-mollys-book-trader-pets/) (Asha Prihar, BillyPenn at WHYY)
 
 
-### From the Collection:
-{% include feature/card.html header="Café Sōseki カフェ漱石" text="A bookstore cat as a bookmark" objectid="bookmark032" width="25" centered=true %}
+### From this Collection:
+{% include feature/card.html header="Café Sōseki カフェ漱石" text="[A bookstore cat as a bookmark](https://erinwalden.github.io/bookmarked/item.html?id=bookmark032)" objectid="bookmark032" width="25" centered=true %}
 
 <p style="text-align: center;">{% include feature/button.html text="Go Back to the Collection" link="https://erinwalden.github.io/bookmarked/browse.html" color="danger" %}</p>
